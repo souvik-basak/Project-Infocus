@@ -32,3 +32,9 @@ Service, and the operator installs and instantiates the smart contract on the ne
 3. The Node.js application server uses the Fabric SDK to interact with the deployed network on IBM Blockchain Platform 2.0 and creates APIs for a web client.
 4. The Loopback 4 client uses the Node.js application API to interact with the network.
 5. The user interacts with the Loopback 4 web interface to update and query the blockchain ledger and state.
+
+
+## Credits
+
+- Developer: @Kaushan
+- Contributors:@Rupayan
