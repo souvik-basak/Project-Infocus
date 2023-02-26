@@ -1,0 +1,20 @@
+.NavBar{
+    box-shadow: 2px 2px 5px black;
+}
+.NavBar-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.NavBar-Link button{
+   border-radius: 5px;
+   color: white;
+   background-color: cadetblue;
+   cursor: pointer;
+
+}
+.NavBar-Link {
+    text-decoration: none;
+}
+

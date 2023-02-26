@@ -1,0 +1,10 @@
+.innovations{
+    display: flex;
+    justify-content: center;
+    
+}
+.innovations-block{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

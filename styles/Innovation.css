@@ -1,0 +1,64 @@
+
+
+
+ .innovation{
+    margin: 20px 0px;
+    width: 300px;
+    height: 300px;
+    border: 0;
+    outline: none;
+    margin-right: 10px;
+    background-color: aqua;
+}
+
+ .innovation .innovation_block{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    
+}
+ .innovation .innovation-block-content a{
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    color: black;
+
+}
+
+
+ .innovation .innovation-block-content{
+    width: 100%;
+    height: 100%;
+    background-color: #111;
+    
+  
+    
+    color: white;
+    opacity: 0;
+    transition: 0.4s ease-out;
+    border: 2px solid white;
+}
+ .innovation .innovation-block-content a{
+    position: relative;
+    left: 40%;
+    
+}
+.innovation h3{
+    text-align: center;
+}
+
+.innovation p{
+    text-align: center;
+}
+ .innovation .innovation_block:hover .innovation-block-content{
+    opacity: 0.9;
+}
+
+
