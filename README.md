@@ -1,55 +1,31 @@
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/95128607-878c7d80-070e-11eb-8a0d-5f01b80eb478.png">
-  <br />
-  Infocus Guide
-</h1>
 
-## 💼 Table of Contents
+# <p align = "center"> Infocus @Diversion2k23 </p>
 
-* [Features](#-features)
-* [Getting Started](#-getting-started)
-* [Documentation](#-documentation)
-* [Contributing](#-contributing)
-* [Developing](#-developing)
-  * [API](#-api)
-* [Community](#-community)
-* [License](#-license)
-* [Supporters](#-supporters)
+![chrome_Nf1DW46QCt](https://user-images.githubusercontent.com/102848153/221388666-55412886-8f3d-4a06-be61-473bc198b52d.png)
+![chrome_nI7vPSqK79](https://user-images.githubusercontent.com/102848153/221388669-1f3ec373-aee0-4303-9163-2df47a53e355.png)
+![chrome_877MAB0Emw](https://user-images.githubusercontent.com/102848153/221388670-29c6a3aa-4503-4816-8c8d-cf28b60174d9.png)
+![chrome_M7VPTaexn9](https://user-images.githubusercontent.com/102848153/221388671-4872b56e-b7bc-437c-b9d5-f671b5e73770.png)
 
-![](https://raw.githubusercontent.com/btcpayserver/btcpayserver-doc/master/docs/img/BTCPayServerScreenshot.png)
 
-# Flow Diagram
-<br>
-<p align="center">
-  <img src="docs/app-architecture.png">
-</p>
-<br>
 
-# Flow Description
-1. The blockchain operator sets up the IBM Blockchain Platform 2.0 service.
-2. The IBM Blockchain Platform 2.0 creates a Hyperledger Fabric network on an IBM Kubernetes 
-Service, and the operator installs and instantiates the smart contract on the network.
-3. The Node.js application server uses the Fabric SDK to interact with the deployed network on IBM Blockchain Platform 2.0 and creates APIs for a web client.
-4. The Loopback 4 client uses the Node.js application API to interact with the network.
-5. The user interacts with the Loopback 4 web interface to update and query the blockchain ledger and state.
+ 
+ 
+ ## 📌 @Diversion2k23 Program
 
-## Problem Statement and Necessity 
-Crowdfunding is one of the most popular ways to raise funds for any project, cause or for helping any individual in need. With the onset of Covid we have seen a rise in Crowdfunding activities across the globe which includes small campaigns to help people get oxygen and medical help to large funds such as PM Cares.
+ ### This project is a part of following Hackathon Programs
 
-The major problems with the Current Crowdfunding Platforms that we wanted to solve were : 
-- Security : As the funds become larger, they need to be heavily secure, although stringent measures such as symmetric encryption are in place to make e-payment safe and secure,it is still vulnerable to hacking. Blockchain — which has never been compromised yet — can provide that level of security.
-- Transparency and Anti-Fraud  : We have seen, and continue to see a lot of crowdfunding scams happening around. There is no way to see where the funds are being used. We wanted to make the entire flow of funds transparent at every stage, so that there is no possibility of the money being misused.
-- Global contribution : With some of the platforms being country specific, it becomes hard for people from other countries to contribute to various campaigns. Using blockchain anyone in the world can contribute to the campaign. Transactions are quick and convenient.
+ 
 
-## Prerequisites
+##  About Diversion2k23
+The one place for the Web3  developer to showcase their ideas and code. Here web3 basically means the Web2 which uses the concept of the blockchain i.e (Web2+smart contract) == Web3. 
+This repo will have web3 project which consist of the smart contract(backend) and frontend part. For the backend part there is smart contract and we can use any tech stack for the frontend in blockchain.
 
-* Node 14
-* Yarn
-* PostgreSQL 10  or 12
-* Ruby 2.7
-* Ubuntu 18.04, 20.04, 22.04 or equivalent
+ I welcome all the Web3,Web2 developer to contribute in this repo .
+  
+##  About Infocus
+Infocus is a blockchain-based platform for inventors to showcase their ideas, seek feedback and funding, and connect with a community of like-minded individuals. Our platform is designed to democratize the invention process by providing access to everyone regardless of their background or resources. We are passionate about supporting inventors and their ideas, and our community of investors, experts, and fellow inventors is committed to helping them turn their ideas into reality. Join our community today and start exploring the world of innovation.
 
-## Credits
-
-- Developer: @Kaushan
-- Contributors:@Rupayan
+### Project Contributors
+<a href="https://github.com/Vikash-8090-Yadav/Web3.0-World/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Vikash-8090-Yadav/Web3.0-World" />
+</a>
