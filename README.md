@@ -4,6 +4,20 @@
   Infocus Guide
 </h1>
 
+## 💼 Table of Contents
+
+* [Features](#-features)
+* [Getting Started](#-getting-started)
+* [Documentation](#-documentation)
+* [Contributing](#-contributing)
+* [Developing](#-developing)
+  * [API](#-api)
+* [Community](#-community)
+* [License](#-license)
+* [Supporters](#-supporters)
+
+![](https://raw.githubusercontent.com/btcpayserver/btcpayserver-doc/master/docs/img/BTCPayServerScreenshot.png)
+
 # Flow Diagram
 <br>
 <p align="center">
