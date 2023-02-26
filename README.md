@@ -33,6 +33,13 @@ Service, and the operator installs and instantiates the smart contract on the ne
 4. The Loopback 4 client uses the Node.js application API to interact with the network.
 5. The user interacts with the Loopback 4 web interface to update and query the blockchain ledger and state.
 
+## Prerequisites
+
+* Node 14
+* Yarn
+* PostgreSQL 10  or 12
+* Ruby 2.7
+* Ubuntu 18.04, 20.04, 22.04 or equivalent
 
 ## Credits
 
