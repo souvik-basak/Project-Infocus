@@ -25,6 +25,15 @@ This repo will have web3 project which consist of the smart contract(backend) an
 ##  About Infocus
 Infocus is a blockchain-based platform for inventors to showcase their ideas, seek feedback and funding, and connect with a community of like-minded individuals. Our platform is designed to democratize the invention process by providing access to everyone regardless of their background or resources. We are passionate about supporting inventors and their ideas, and our community of investors, experts, and fellow inventors is committed to helping them turn their ideas into reality. Join our community today and start exploring the world of innovation.
 
+### Tech Stacks
+- [ ] Next.Js
+- [ ] Tailwind CSS
+- [ ] Solidity
+- [ ] Hardhat
+- [ ] Ethers.Js
+- [ ] Pinata
+- [ ] Polygon
+
 ### Project Contributors
 - [x] <a href="https://github.com/Kaushan-Dutta"> Kaushan Dutta </a>
 - [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
