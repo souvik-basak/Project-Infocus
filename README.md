@@ -26,6 +26,9 @@ This repo will have web3 project which consist of the smart contract(backend) an
 Infocus is a blockchain-based platform for inventors to showcase their ideas, seek feedback and funding, and connect with a community of like-minded individuals. Our platform is designed to democratize the invention process by providing access to everyone regardless of their background or resources. We are passionate about supporting inventors and their ideas, and our community of investors, experts, and fellow inventors is committed to helping them turn their ideas into reality. Join our community today and start exploring the world of innovation.
 
 ### Project Contributors
-<a href="https://github.com/Vikash-8090-Yadav/Web3.0-World/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Vikash-8090-Yadav/Web3.0-World" />
+<a href="https://github.com/Kaushan-Dutta">
+ Kaushan Dutta
+</a>
+<a href="https://github.com/Rupayan20">
+ Rupayan Dutta
 </a>
