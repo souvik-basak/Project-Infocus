@@ -1,5 +1,5 @@
 
-# <p align = "center"> Infocus @Diversion2k23 </p>
+# <p align = "center"> Infocus @Hack The Chain </p>
 
 ![chrome_Nf1DW46QCt](https://user-images.githubusercontent.com/102848153/221388666-55412886-8f3d-4a06-be61-473bc198b52d.png)
 ![chrome_nI7vPSqK79](https://user-images.githubusercontent.com/102848153/221388669-1f3ec373-aee0-4303-9163-2df47a53e355.png)
@@ -10,13 +10,13 @@
 
  
  
- ## 📌 @Diversion2k23 Program
+ ## 📌 @Hack The Chain Program
 
  ### This project is a part of following Hackathon Programs
 
  
 
-##  About Diversion2k23
+##  About Hack The Chain
 The one place for the Web3  developer to showcase their ideas and code. Here web3 basically means the Web2 which uses the concept of the blockchain i.e (Web2+smart contract) == Web3. 
 This repo will have web3 project which consist of the smart contract(backend) and frontend part. For the backend part there is smart contract and we can use any tech stack for the frontend in blockchain.
 
