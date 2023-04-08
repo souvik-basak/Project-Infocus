@@ -37,5 +37,5 @@ Infocus is a blockchain-based platform for inventors to showcase their ideas, se
 - [ ] Replit
 
 ### Project Contributors
-- [x] <a href="https://github.com/Kaushan-Dutta"> Kaushan Dutta </a>
+- [x] <a href="https://github.com/souvik-basak"> Souvik Basak </a>
 - [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
